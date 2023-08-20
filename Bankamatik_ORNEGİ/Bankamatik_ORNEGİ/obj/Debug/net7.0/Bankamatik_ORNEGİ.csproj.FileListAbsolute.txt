@@ -1,0 +1,30 @@
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\Bankamatik_ORNEGİ\Bankamatik_ORNEGİ\bin\Debug\net7.0\Bankamatik_ORNEGİ.exe
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\Bankamatik_ORNEGİ\Bankamatik_ORNEGİ\bin\Debug\net7.0\Bankamatik_ORNEGİ.deps.json
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\Bankamatik_ORNEGİ\Bankamatik_ORNEGİ\bin\Debug\net7.0\Bankamatik_ORNEGİ.runtimeconfig.json
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\Bankamatik_ORNEGİ\Bankamatik_ORNEGİ\bin\Debug\net7.0\Bankamatik_ORNEGİ.dll
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\Bankamatik_ORNEGİ\Bankamatik_ORNEGİ\bin\Debug\net7.0\Bankamatik_ORNEGİ.pdb
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\Bankamatik_ORNEGİ\Bankamatik_ORNEGİ\obj\Debug\net7.0\Bankamatik_ORNEGİ.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\Bankamatik_ORNEGİ\Bankamatik_ORNEGİ\obj\Debug\net7.0\Bankamatik_ORNEGİ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\Bankamatik_ORNEGİ\Bankamatik_ORNEGİ\obj\Debug\net7.0\Bankamatik_ORNEGİ.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\Bankamatik_ORNEGİ\Bankamatik_ORNEGİ\obj\Debug\net7.0\Bankamatik_ORNEGİ.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\Bankamatik_ORNEGİ\Bankamatik_ORNEGİ\obj\Debug\net7.0\Bankamatik_ORNEGİ.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\Bankamatik_ORNEGİ\Bankamatik_ORNEGİ\obj\Debug\net7.0\Bankamatik_ORNEGİ.dll
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\Bankamatik_ORNEGİ\Bankamatik_ORNEGİ\obj\Debug\net7.0\refint\Bankamatik_ORNEGİ.dll
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\Bankamatik_ORNEGİ\Bankamatik_ORNEGİ\obj\Debug\net7.0\Bankamatik_ORNEGİ.pdb
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\Bankamatik_ORNEGİ\Bankamatik_ORNEGİ\obj\Debug\net7.0\Bankamatik_ORNEGİ.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\Bankamatik_ORNEGİ\Bankamatik_ORNEGİ\obj\Debug\net7.0\ref\Bankamatik_ORNEGİ.dll
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\17.08.2023\Bankamatik_ORNEGİ\Bankamatik_ORNEGİ\bin\Debug\net7.0\Bankamatik_ORNEGİ.exe
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\17.08.2023\Bankamatik_ORNEGİ\Bankamatik_ORNEGİ\bin\Debug\net7.0\Bankamatik_ORNEGİ.deps.json
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\17.08.2023\Bankamatik_ORNEGİ\Bankamatik_ORNEGİ\bin\Debug\net7.0\Bankamatik_ORNEGİ.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\17.08.2023\Bankamatik_ORNEGİ\Bankamatik_ORNEGİ\bin\Debug\net7.0\Bankamatik_ORNEGİ.dll
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\17.08.2023\Bankamatik_ORNEGİ\Bankamatik_ORNEGİ\bin\Debug\net7.0\Bankamatik_ORNEGİ.pdb
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\17.08.2023\Bankamatik_ORNEGİ\Bankamatik_ORNEGİ\obj\Debug\net7.0\Bankamatik_ORNEGİ.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\17.08.2023\Bankamatik_ORNEGİ\Bankamatik_ORNEGİ\obj\Debug\net7.0\Bankamatik_ORNEGİ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\17.08.2023\Bankamatik_ORNEGİ\Bankamatik_ORNEGİ\obj\Debug\net7.0\Bankamatik_ORNEGİ.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\17.08.2023\Bankamatik_ORNEGİ\Bankamatik_ORNEGİ\obj\Debug\net7.0\Bankamatik_ORNEGİ.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\17.08.2023\Bankamatik_ORNEGİ\Bankamatik_ORNEGİ\obj\Debug\net7.0\Bankamatik_ORNEGİ.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\17.08.2023\Bankamatik_ORNEGİ\Bankamatik_ORNEGİ\obj\Debug\net7.0\Bankamatik_ORNEGİ.dll
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\17.08.2023\Bankamatik_ORNEGİ\Bankamatik_ORNEGİ\obj\Debug\net7.0\refint\Bankamatik_ORNEGİ.dll
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\17.08.2023\Bankamatik_ORNEGİ\Bankamatik_ORNEGİ\obj\Debug\net7.0\Bankamatik_ORNEGİ.pdb
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\17.08.2023\Bankamatik_ORNEGİ\Bankamatik_ORNEGİ\obj\Debug\net7.0\Bankamatik_ORNEGİ.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\17.08.2023\Bankamatik_ORNEGİ\Bankamatik_ORNEGİ\obj\Debug\net7.0\ref\Bankamatik_ORNEGİ.dll
